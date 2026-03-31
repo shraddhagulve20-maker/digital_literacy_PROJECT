@@ -1,12 +1,12 @@
-📘 Digital Literacy & Cyber Awareness Assignment – README
-👤 Student Details
+ Digital Literacy & Cyber Awareness Assignment – README
+Student Details
 
 Name: Shraddha Gulve
 Course: CSE0001
 Subject: Digital Literacy
 Date: 31-03-2026
 
-📌 Overview
+ Overview
 
 This project focuses on enhancing digital literacy, building an online presence, understanding cybersecurity, and promoting safe digital practices. It consists of five tasks covering awareness, practical skills, and reporting.
 
